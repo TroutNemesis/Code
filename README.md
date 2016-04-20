@@ -21,13 +21,9 @@ Testing Accounts
 Deployment
 --------------------------------------------------
 
-### How the App is Deployed
-
 
 Commands
 --------------------------------------------------
-
-### Nice Commands to Know
 
 
 Having Troubles???
