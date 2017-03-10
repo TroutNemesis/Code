@@ -32,5 +32,4 @@ Having Troubles???
 2. If your page still isn't running, scream.
 3. Then throw your computer out of the window.
 4. Go buy another computer.
-5. Setup pl-api on new computer.
 6. Pray the same problem doesn't happen again...
